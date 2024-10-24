@@ -1,6 +1,9 @@
 [submodule "type-dsa"]
 	path = type-dsa
-	url = git@github.com:saiashirwad/type-dsa.git
+	url = https://github.com:saiashirwad/type-dsa
 [submodule "type-system-chess"]
 	path = type-system-chess
-	url = git@github.com:Dragon-Hatcher/type-system-chess.git
+	url = https://github.com:Dragon-Hatcher/type-system-chess
+[submodule "typelang"]
+	path = typelang
+	url = https://github.com/ronami/typelang
