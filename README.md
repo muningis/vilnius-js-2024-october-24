@@ -1,6 +1,6 @@
 ## Setup
 
-### Do not forget to fetch submodules (`type-dsa` and `type-system-chess`)
+### Do not forget to fetch submodules (`type-dsa`, `type-system-chess` and `typelang`)
 ```sh
 git submodule update --init --recursive
 ````
