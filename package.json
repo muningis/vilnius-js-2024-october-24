@@ -1,0 +1,15 @@
+{
+  "name": "20241024",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest",
+    "ts-graphql-plugin": "^4.0.3"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "graphql-tag": "^2.12.6"
+  }
+}
